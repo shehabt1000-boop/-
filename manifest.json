@@ -1,6 +1,6 @@
 {
-  "name": "Nozha TraVal",
-  "short_name": "Nozha TraVal",
+  "name": "Wolf TraVal",
+  "short_name": "Wolf TraVal",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f172a",
@@ -8,7 +8,7 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/shehabt1000-boop/Wolf-TraVal/791f9276439758440e0cedbe2a11d50197e90e28/Nozha%20Traval.jpg",
+      "src": "https://raw.githubusercontent.com/shehabt1000-boop/-/8feac62d11c707c07fd2d22afba278c69070d152/Wolf%20TraVal%20.jpg",
       "type": "image/jpeg",
       "sizes": "512x512"
     }
